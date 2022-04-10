@@ -11,7 +11,7 @@
 
  **1. Project Script Name : guessinggame.sh**
 
- **2. Make was run on :** Sun Apr 10 21:04:07 AEST 2022
+ **2. Make was run on :** Sun Apr 10 21:12:21 AEST 2022
 
  **3. Number of lines of code in guessinggame.sh : 49**
 
@@ -20,4 +20,4 @@
 
 
 
-My project details can be followed up through the GitHub web page [link](https://manisha-netizen.github.io/my-first-repo/)
+*My project details can be followed up through the GitHub web page* [link](https://manisha-netizen.github.io/my-first-repo/)
